@@ -4,3 +4,6 @@
 [submodule "AuditModule"]
 	path = AuditModule
 	url = https://github.com/UnionVMS/UVMS-AuditModule
+[submodule "ConfigModule"]
+	path = ConfigModule
+	url = https://github.com/UnionVMS/UVMS-ConfigModule
