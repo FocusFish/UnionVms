@@ -1,0 +1,3 @@
+[submodule "AssetModule"]
+	path = AssetModule
+	url = https://github.com/UnionVMS/UVMS-Asset
