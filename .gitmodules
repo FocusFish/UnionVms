@@ -7,3 +7,6 @@
 [submodule "ConfigModule"]
 	path = ConfigModule
 	url = https://github.com/UnionVMS/UVMS-ConfigModule
+[submodule "MobileTerminalModule"]
+	path = MobileTerminalModule
+	url = https://github.com/UnionVMS/UVMS-MobileTerminalModule
