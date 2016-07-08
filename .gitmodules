@@ -19,3 +19,6 @@
 [submodule "RulesModule"]
 	path = RulesModule
 	url = https://github.com/UnionVMS/UVMS-RulesModule
+[submodule "ExchangeModule"]
+	path = ExchangeModule
+	url = https://github.com/UnionVMS/UVMS-ExchangeModule
