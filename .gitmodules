@@ -16,3 +16,6 @@
 [submodule "MovementModule"]
 	path = MovementModule
 	url = https://github.com/UnionVMS/UVMS-MovementModule
+[submodule "RulesModule"]
+	path = RulesModule
+	url = https://github.com/UnionVMS/UVMS-RulesModule
