@@ -13,3 +13,6 @@
 [submodule "Libraries"]
 	path = Libraries
 	url = https://github.com/UnionVMS/UVMS-Libraries
+[submodule "MovementModule"]
+	path = MovementModule
+	url = https://github.com/UnionVMS/UVMS-MovementModule
