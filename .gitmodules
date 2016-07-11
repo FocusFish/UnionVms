@@ -22,3 +22,6 @@
 [submodule "ExchangeModule"]
 	path = ExchangeModule
 	url = https://github.com/UnionVMS/UVMS-ExchangeModule
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/UnionVMS/UVMS-Frontend
