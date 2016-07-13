@@ -25,3 +25,9 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/UnionVMS/UVMS-Frontend
+[submodule "SpatialModule"]
+	path = SpatialModule
+	url = https://github.com/UnionVMS/UVMS-SpatialModule
+[submodule "ReportingModule"]
+	path = ReportingModule
+	url = https://github.com/UnionVMS/UVMS-ReportingModule
