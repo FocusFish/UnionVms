@@ -31,3 +31,6 @@
 [submodule "ReportingModule"]
 	path = ReportingModule
 	url = https://github.com/UnionVMS/UVMS-ReportingModule
+[submodule "UVMS-User"]
+	path = UVMS-User
+	url = https://github.com/UnionVMS/UVMS-User
